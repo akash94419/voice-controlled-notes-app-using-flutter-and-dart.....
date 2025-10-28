@@ -1,0 +1,36 @@
+{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    height:90px;
+    display:flex;
+    justify-content:center;
+    align-item:center;
+}
+nav > ol{
+    disply:flex;
+    width:100%;
+    justify-content:space-evenly;
+    algin-item:center;
+    list-style:none;
+}
+nov > ol > div::first-latter{
+    font-size: 50px;
+    color:red;
+    font-size:italic;
+    text-shadow: 5px 5px 5px black;
+}
+nav > ol >div{
+    width:30px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-left: 50px;
+}
+nav > ol >li >a{
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
